@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7ba8911bc35f9e2fb25e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "p1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "p1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-p1-Debug-95091c5cf0a5ca90ca08.json",
+					"name" : "p1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "p1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-p1_autogen-Debug-ab106b7e8ba2b864169b.json",
+					"name" : "p1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "p1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-p1_autogen_timestamp_deps-Debug-9ef6bcf95b7628fe0ffb.json",
+					"name" : "p1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mariam/build-p1-Desktop_Qt_6_6_2_GCC_64bit-Debug",
+		"source" : "/home/mariam/p1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
