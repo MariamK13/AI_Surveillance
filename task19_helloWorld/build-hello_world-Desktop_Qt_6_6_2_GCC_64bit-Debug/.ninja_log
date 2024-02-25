@@ -1,0 +1,27 @@
+# ninja log v5
+0	300	1708873472894236562	hello_world_autogen/timestamp	a24002a3c0dfa42e
+0	300	1708873472894236562	hello_world_autogen/mocs_compilation.cpp	a24002a3c0dfa42e
+0	300	1708873472894236562	/home/mariam/PicsArt/ai_surveillance/feb/day 4/build-hello_world-Desktop_Qt_6_6_2_GCC_64bit-Debug/hello_world_autogen/timestamp	a24002a3c0dfa42e
+0	300	1708873472894236562	/home/mariam/PicsArt/ai_surveillance/feb/day 4/build-hello_world-Desktop_Qt_6_6_2_GCC_64bit-Debug/hello_world_autogen/mocs_compilation.cpp	a24002a3c0dfa42e
+301	2926	1708873475522261274	CMakeFiles/hello_world.dir/hello_world_autogen/mocs_compilation.cpp.o	d7813d237889c477
+300	2982	1708873475578261801	CMakeFiles/hello_world.dir/main.cpp.o	491fea4f61758d1b
+301	2997	1708873475590261914	CMakeFiles/hello_world.dir/mainwindow.cpp.o	e1afed9edf2033e7
+2997	3505	1708873476094266653	hello_world	76507e17ab0a8974
+2	20	1708873605939487845	hello_world_autogen/timestamp	a24002a3c0dfa42e
+2	20	1708873605939487845	hello_world_autogen/mocs_compilation.cpp	a24002a3c0dfa42e
+2	20	1708873605939487845	/home/mariam/PicsArt/ai_surveillance/feb/day 4/build-hello_world-Desktop_Qt_6_6_2_GCC_64bit-Debug/hello_world_autogen/timestamp	a24002a3c0dfa42e
+2	20	1708873605939487845	/home/mariam/PicsArt/ai_surveillance/feb/day 4/build-hello_world-Desktop_Qt_6_6_2_GCC_64bit-Debug/hello_world_autogen/mocs_compilation.cpp	a24002a3c0dfa42e
+22	1668	1708873607583503309	CMakeFiles/hello_world.dir/mainwindow.cpp.o	e1afed9edf2033e7
+1668	2051	1708873607963506884	hello_world	76507e17ab0a8974
+2	18	1708874024691427755	hello_world_autogen/timestamp	a24002a3c0dfa42e
+2	18	1708874024691427755	hello_world_autogen/mocs_compilation.cpp	a24002a3c0dfa42e
+2	18	1708874024691427755	/home/mariam/PicsArt/ai_surveillance/feb/day 4/build-hello_world-Desktop_Qt_6_6_2_GCC_64bit-Debug/hello_world_autogen/timestamp	a24002a3c0dfa42e
+2	18	1708874024691427755	/home/mariam/PicsArt/ai_surveillance/feb/day 4/build-hello_world-Desktop_Qt_6_6_2_GCC_64bit-Debug/hello_world_autogen/mocs_compilation.cpp	a24002a3c0dfa42e
+20	1629	1708874026299442887	CMakeFiles/hello_world.dir/mainwindow.cpp.o	e1afed9edf2033e7
+1629	2007	1708874026675446425	hello_world	76507e17ab0a8974
+2	20	1708874034247517678	hello_world_autogen/timestamp	a24002a3c0dfa42e
+2	20	1708874034247517678	hello_world_autogen/mocs_compilation.cpp	a24002a3c0dfa42e
+2	20	1708874034247517678	/home/mariam/PicsArt/ai_surveillance/feb/day 4/build-hello_world-Desktop_Qt_6_6_2_GCC_64bit-Debug/hello_world_autogen/timestamp	a24002a3c0dfa42e
+2	20	1708874034247517678	/home/mariam/PicsArt/ai_surveillance/feb/day 4/build-hello_world-Desktop_Qt_6_6_2_GCC_64bit-Debug/hello_world_autogen/mocs_compilation.cpp	a24002a3c0dfa42e
+21	1641	1708874035867532924	CMakeFiles/hello_world.dir/mainwindow.cpp.o	e1afed9edf2033e7
+1641	2020	1708874036243536463	hello_world	76507e17ab0a8974
