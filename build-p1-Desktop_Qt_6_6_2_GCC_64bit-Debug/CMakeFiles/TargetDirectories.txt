@@ -1,9 +1,0 @@
-/home/mariam/build-p1-Desktop_Qt_6_6_2_GCC_64bit-Debug/CMakeFiles/p1.dir
-/home/mariam/build-p1-Desktop_Qt_6_6_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
-/home/mariam/build-p1-Desktop_Qt_6_6_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
-/home/mariam/build-p1-Desktop_Qt_6_6_2_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
-/home/mariam/build-p1-Desktop_Qt_6_6_2_GCC_64bit-Debug/CMakeFiles/install.dir
-/home/mariam/build-p1-Desktop_Qt_6_6_2_GCC_64bit-Debug/CMakeFiles/install/local.dir
-/home/mariam/build-p1-Desktop_Qt_6_6_2_GCC_64bit-Debug/CMakeFiles/install/strip.dir
-/home/mariam/build-p1-Desktop_Qt_6_6_2_GCC_64bit-Debug/CMakeFiles/p1_autogen_timestamp_deps.dir
-/home/mariam/build-p1-Desktop_Qt_6_6_2_GCC_64bit-Debug/CMakeFiles/p1_autogen.dir
