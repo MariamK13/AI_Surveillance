@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b02bd279fbdc4ccec1cb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SimpleCounter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SimpleCounter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimpleCounter-Debug-e50cb5eb7df7459a160b.json",
+					"name" : "SimpleCounter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SimpleCounter_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimpleCounter_autogen-Debug-69a54bd6ab883ba20e76.json",
+					"name" : "SimpleCounter_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SimpleCounter_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimpleCounter_autogen_timestamp_deps-Debug-c8e8cc87baeeccae9385.json",
+					"name" : "SimpleCounter_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mariam/Downloads/AI_Surveillance/task20_counter/build-SimpleCounter-Desktop_Qt_6_6_2_GCC_64bit-Debug",
+		"source" : "/home/mariam/Downloads/AI_Surveillance/task20_counter/SimpleCounter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
