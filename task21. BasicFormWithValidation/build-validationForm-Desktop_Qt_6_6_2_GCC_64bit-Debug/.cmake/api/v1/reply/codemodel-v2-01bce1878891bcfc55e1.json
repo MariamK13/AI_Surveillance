@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3db4fe2b3b1bec4fab49.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "validationForm",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "validationForm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-validationForm-Debug-c3633a01b15054016525.json",
+					"name" : "validationForm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "validationForm_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-validationForm_autogen-Debug-21825c9cfc487aeb0bf8.json",
+					"name" : "validationForm_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "validationForm_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-validationForm_autogen_timestamp_deps-Debug-3313062a568cb5849cc7.json",
+					"name" : "validationForm_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mariam/Desktop/AI_Surveillance/task21. BasicFormWithValidation/build-validationForm-Desktop_Qt_6_6_2_GCC_64bit-Debug",
+		"source" : "/home/mariam/Desktop/AI_Surveillance/task21. BasicFormWithValidation/validationForm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
