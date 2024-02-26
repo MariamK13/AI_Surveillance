@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-054286678eb54162b39f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ToDo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ToDo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ToDo-Debug-7aa655c94aae74ad5dec.json",
+					"name" : "ToDo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ToDo_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ToDo_autogen-Debug-a013581cb339a41b791b.json",
+					"name" : "ToDo_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ToDo_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ToDo_autogen_timestamp_deps-Debug-2a1c73bb0af46e44b6ff.json",
+					"name" : "ToDo_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mariam/Desktop/AI_Surveillance/Task22_TodoListApplication/build-ToDo-Desktop_Qt_6_6_2_GCC_64bit-Debug",
+		"source" : "/home/mariam/Desktop/AI_Surveillance/Task22_TodoListApplication/ToDo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
